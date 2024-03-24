@@ -1,3 +1,3 @@
 # malli98 
-This MY First Reositry
+This MY First Reoositry
 Author - Mallilarjuna
